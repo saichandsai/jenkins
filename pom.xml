@@ -1,6 +1,6 @@
 <project>
 
-<artifactID>maven war file</artifactID>
+<artifactId>maven war file</artifactId>
 
 <groupId>org.sai1</groupId>
 
