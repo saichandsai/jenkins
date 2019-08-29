@@ -1,0 +1,13 @@
+<project>
+
+<artifactID>maven war file</artifactID>
+
+<groupId>org.sai1</groupId>
+
+<modelVersion>4.0.0</modelVersion>
+
+<version>1.0.0</version>
+
+<packaging>war</packaging>
+
+>/project>
