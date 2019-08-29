@@ -8,6 +8,6 @@
 
 <version>1.0.0</version>
 
-<packaging>war</packaging>
+<packaging>jar</packaging>
 
 </project>
