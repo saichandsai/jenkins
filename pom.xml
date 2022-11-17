@@ -1,5 +1,6 @@
 <project>
 
+# this is maven project
 <artifactId>mavenfile</artifactId>
 
 <groupId>org.sai1</groupId>
